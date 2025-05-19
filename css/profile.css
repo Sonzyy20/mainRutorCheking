@@ -185,6 +185,9 @@ button {
   cursor: grab;
   pointer-events: auto;
   scrollbar-width: none;
+  display: none;
+  visibility: hidden;
+  opacity: 0;
 }
 
 .profile__slider__container::-webkit-scrollbar {
